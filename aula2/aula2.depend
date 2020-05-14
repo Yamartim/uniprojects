@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1522700441 source:c:\users\martim\desktop\cap\aula2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
