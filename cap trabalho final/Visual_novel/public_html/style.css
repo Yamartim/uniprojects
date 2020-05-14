@@ -1,0 +1,52 @@
+#container{
+background:pink;
+width:60%;
+height:95%;
+margin-left:20%;
+margin-right:20%;
+
+}
+
+#tela{
+height:70%;
+width:95%;
+margin-left: 2.5%;
+background-repeat:no-repeat;
+position:relative;
+}
+
+.dialogo{
+width: 100%;
+height:40%;
+margin-top:0.5%;
+color: white;
+background:#f44669;
+}
+.dialogo:hover{
+opacity:0.8;	
+
+
+}
+
+#respostas{
+margin-top:8%;
+width:100%;
+height: 20%;
+}
+
+.char{
+height:100%;	
+}
+
+#inicio{
+
+padding:10%;
+
+}
+
+#texto{
+background:grey;
+height:12%;
+padding:5px;
+border-color:white;
+}
