@@ -7,4 +7,4 @@ Projects made for many disciplines and internet online courses such as
   - Algorithms and data structures, 
   - Organization and recovery of information
 
-It's a bit bare now, but I'm still getting my bearings so I'll fill it up soon!
+It's a bit unnorganized at the moment, but I'm still getting my bearings so I'll organize it soon!
